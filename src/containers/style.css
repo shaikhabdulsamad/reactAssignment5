@@ -1,0 +1,22 @@
+.img{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+}
+.logo{
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+.logo>h1{
+    margin-left: 10px;
+}
+.body{
+    padding: 20px;
+    background-color: lightcyan;
+    margin-top: 10px;
+ 
+}
